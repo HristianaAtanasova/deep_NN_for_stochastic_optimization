@@ -5,7 +5,7 @@ real-space many body quantum wavefunctions.
 
 By default, it will attempt to find the ground state energy of two
 noninteracting fermions in two spatial dimensions, allowing comparison with the
-analytically known exact result. As of 2022, it should run in a couple of
+analytically known exact result. As of 2024, it should run in a couple of
 minutes on a desktop machine with a consumer graphics card. However, the code
 can easily be modified for application to any number of particles or potential.
 
